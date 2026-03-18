@@ -1,8 +1,11 @@
 {
-  "name": "minimal-dark-theme",
+  "name": "minimal-dark-theme-pro",
   "displayName": "Minimal Dark Theme - Clean Black VS Code Theme",
   "description": "A clean, minimal and modern dark black theme for Visual Studio Code. Designed for distraction-free coding, smooth contrast, and long coding sessions.",
-  "version": "0.0.2",
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
   "publisher": "Prashantkhuva",
   "keywords": [
     "dark theme",
@@ -16,7 +19,9 @@
     "clean ui",
     "dark vscode"
   ],
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
@@ -27,7 +32,8 @@
     ]
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/Prashantkhuva/custom-color-theme"
-}
+    "type": "git",
+    "url": "https://github.com/Prashantkhuva/custom-color-theme"
+  },
+  "icon": "icon.png"
 }
