@@ -1,20 +1,33 @@
 {
-  "name": "cursor-custom-theme",
-  "displayName": "Cursor Custom Theme",
-  "description": "Cursor inspired custom theme",
-  "version": "0.0.1",
-  "publisher": "prashant",
-  "engines": {
-    "vscode": "^1.80.0"
-  },
+  "name": "minimal-dark-theme",
+  "displayName": "Minimal Dark Theme - Clean Black VS Code Theme",
+  "description": "A clean, minimal and modern dark black theme for Visual Studio Code. Designed for distraction-free coding, smooth contrast, and long coding sessions.",
+  "version": "0.0.2",
+  "publisher": "Prashantkhuva",
+  "keywords": [
+    "dark theme",
+    "black theme",
+    "minimal theme",
+    "vs code dark",
+    "developer theme",
+    "coding theme",
+    "night theme",
+    "modern theme",
+    "clean ui",
+    "dark vscode"
+  ],
   "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
-        "label": "Cursor Custom",
+        "label": "Minimal Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/cursor-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Prashantkhuva/custom-color-theme"
+}
 }
