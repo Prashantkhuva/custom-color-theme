@@ -1,23 +1,24 @@
 {
   "name": "minimal-dark-theme-pro",
-  "displayName": "Minimal Dark Theme - Clean Black VS Code Theme",
-  "description": "A clean, minimal and modern dark black theme for Visual Studio Code. Designed for distraction-free coding, smooth contrast, and long coding sessions.",
-  "version": "0.0.4",
+  "displayName": "Minimal Dark Theme Pro",
+  "description": "A premium, clean and minimal dark theme for VS Code with balanced contrast, modern syntax highlighting and distraction-free UI. Perfect for long coding sessions.",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.80.0"
   },
   "publisher": "Prashantkhuva",
   "keywords": [
+    "vscode theme",
     "dark theme",
-    "black theme",
     "minimal theme",
-    "vs code dark",
+    "clean theme",
+    "black theme",
+    "modern ui",
     "developer theme",
     "coding theme",
-    "night theme",
-    "modern theme",
-    "clean ui",
-    "dark vscode"
+    "aesthetic theme",
+    "pro theme",
+    "dark vscode theme"
   ],
   "categories": [
     "Themes"
@@ -28,6 +29,11 @@
         "label": "Minimal Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/cursor-color-theme.json"
+      },
+      {
+        "label": "Hybrid Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hybrid-dark-theme.json"
       }
     ]
   },

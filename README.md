@@ -1,65 +1,66 @@
-# 🌙 Minimal Dark Theme
+# 🌙 Minimal Dark Theme Pro
 
-A clean, minimal, and modern dark theme for Visual Studio Code.
-
----
-
-## 🎯 Why this theme?
-
-This theme is designed for developers who:
-
-* Code for long hours
-* Want a distraction-free environment
-* Prefer a clean and minimal UI
-
-Special focus was given to:
-
-* Smooth contrast for better readability
-* Clean interface with no visual noise
-* Highlighted syntax for better clarity
+A premium, clean, and modern dark theme for Visual Studio Code — designed for developers who value focus, clarity, and aesthetics.
 
 ---
 
-## 🌑 Dark Theme
+## 🚀 Why Minimal Dark Theme Pro?
 
-> The only version — crafted for a premium coding experience
+Most themes are either too colorful or too dull.
 
-* Deep dark background (easy on eyes)
-* Highlighted functions, variables, and strings
-* Clean sidebar and activity bar
-* Balanced contrast for long sessions
+This theme is built with a perfect balance:
+
+* ✨ Clean UI (no visual noise)
+* 🎯 Clear syntax hierarchy
+* 👀 Eye-friendly colors for long coding sessions
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-* 🎨 Clean and minimal UI
-* 🔥 Highlighted active tab
-* ⚡ Customized syntax highlighting
-* 👀 Comfortable for long coding sessions
-* 🧠 Better focus with reduced distractions
+* 🎨 Minimal & distraction-free interface
+* ⚡ Balanced syntax highlighting (no color overload)
+* 🔥 Clean HTML, JS, JSON highlighting
+* 👁️ Comfortable for long coding hours
+* 🧠 Improves focus and readability
+
+---
+
+## 🧪 Designed For
+
+* Backend Developers
+* Frontend Developers
+* Students learning to code
+* Anyone who codes for long hours
 
 ---
 
 ## 📸 Preview
 
-### Editor
+### Editor View
 
 ![Editor Preview](./images/outlook.png)
+![Editor Preview](./images/outlook1.png)
 
 ---
 
 ## ⚙️ Recommended Settings
 
-For best experience:
-
-```json id="j3c1a9"
-"editor.fontFamily": "'MonoLisa Nerd Font Mono', 'JetBrains Mono', monospace",
-"editor.fontSize": 14,
-"terminal.integrated.fontSize": 13,
-"editor.wordWrap": "on",
-"editor.fontLigatures": true
+```json
+{
+  "editor.fontFamily": "'JetBrains Mono', monospace",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on"
+}
 ```
+
+---
+
+## 🎨 Included Themes
+
+* 🌑 Minimal Dark Theme (Clean UI)
+* 🌙 Hybrid Dark Theme (Balanced contrast)
 
 ---
 
@@ -67,40 +68,22 @@ For best experience:
 
 1. Open VS Code
 2. Go to Extensions
-3. Search: **Minimal Dark Theme**
+3. Search: **Minimal Dark Theme Pro**
 4. Click Install
 
 ---
 
-## 💡 Who is this for?
-
-* Developers
-* Students
-* Backend / frontend engineers
-
----
-
-## 🚀 Future Improvements
-
-* Additional color tuning
-* Language-specific enhancements
-* Community feedback updates
-
----
-
-## 👨‍💻 About Author
-
-**Prashant Khuva**
-Backend Developer | Building in Public 🚀
-
----
-
-## ⭐ Support
+## ❤️ Support
 
 If you like this theme:
 
-* Give it a ⭐ on GitHub
-* Share with your friends
-* Use it daily 😎
+⭐ Star the repo
+🚀 Share with others
+💻 Use it daily
 
 ---
+
+## 👨‍💻 Author
+
+**Prashant Khuva**
+Backend Developer | Building in Public 🚀
