@@ -2,7 +2,7 @@
   "name": "minimal-dark-theme-pro",
   "displayName": "Minimal Dark Theme Pro",
   "description": "A premium, clean and minimal dark theme for VS Code with balanced contrast, modern syntax highlighting and distraction-free UI. Perfect for long coding sessions.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.80.0"
   },
