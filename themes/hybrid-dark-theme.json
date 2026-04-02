@@ -45,10 +45,22 @@
     "panel.border": "#1c252e",
 
     "list.activeSelectionBackground": "#1c252e",
+    "list.inactiveSelectionBackground": "#1c252e",
     "list.hoverBackground": "#1a222b",
+    "list.focusBackground": "#1c252e",
 
     "scrollbarSlider.background": "#2a3a4a",
-    "scrollbarSlider.hoverBackground": "#3a4f63"
+    "scrollbarSlider.hoverBackground": "#3a4f63",
+
+    // 🔥 MENU FIX (important)
+    "menu.background": "#0f1419",
+    "menu.foreground": "#D4D4D4",
+    "menu.selectionBackground": "#1c252e",
+    "menu.selectionForeground": "#ffffff",
+
+    "dropdown.background": "#0f1419",
+    "dropdown.foreground": "#D4D4D4",
+    "dropdown.border": "#1c252e"
   },
 
   "tokenColors": [
