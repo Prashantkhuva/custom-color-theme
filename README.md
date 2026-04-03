@@ -1,18 +1,19 @@
 # 🌙 Minimal Dark Theme Pro
 
-A premium, clean, and modern dark theme for Visual Studio Code — designed for developers who value focus, clarity, and aesthetics.
+⚡ Built for developers who want clean UI, better focus, and long coding sessions without eye strain.
+
+A premium, minimal, and modern dark theme for Visual Studio Code — designed with perfect balance between readability and aesthetics.
 
 ---
 
 ## 🚀 Why Minimal Dark Theme Pro?
 
-Most themes are either too colorful or too dull.
+Most themes fall into two categories:
 
-This theme is built with a perfect balance:
+❌ Too colorful → distracting
+❌ Too dull → boring
 
-* ✨ Clean UI (no visual noise)
-* 🎯 Clear syntax hierarchy
-* 👀 Eye-friendly colors for long coding sessions
+✅ **Minimal Dark Pro = Clean + Balanced + Focused**
 
 ---
 
@@ -22,7 +23,19 @@ This theme is built with a perfect balance:
 * ⚡ Balanced syntax highlighting (no color overload)
 * 🔥 Clean HTML, JS, JSON highlighting
 * 👁️ Comfortable for long coding hours
-* 🧠 Improves focus and readability
+* 🧠 Designed to improve focus and readability
+* 💎 Fully consistent UI (no color mismatch anywhere)
+
+---
+
+## 🎯 Why This Theme Stands Out?
+
+* No harsh colors
+* No UI inconsistency
+* Smooth autocomplete & selection
+* Carefully tuned for real coding workflow
+
+👉 This is not just a theme — it's a **coding experience**
 
 ---
 
@@ -30,17 +43,22 @@ This theme is built with a perfect balance:
 
 * Backend Developers
 * Frontend Developers
-* Students learning to code
+* Students
 * Anyone who codes for long hours
 
 ---
 
 ## 📸 Preview
 
-### Editor View
+### 🌙 Hybrid Dark Theme
 
-![Editor Preview](./images/outlook.png)
-![Editor Preview](./images/outlook1.png)
+![Hybrid Dark Theme](./images/outlook.png)
+
+---
+
+### 🌑 Minimal Dark Theme
+
+![Minimal Dark Theme](./images/outlook1.png)
 
 ---
 

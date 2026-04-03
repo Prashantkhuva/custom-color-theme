@@ -1,24 +1,23 @@
 {
   "name": "minimal-dark-theme-pro",
   "displayName": "Minimal Dark Theme Pro",
-  "description": "A premium, clean and minimal dark theme for VS Code with balanced contrast, modern syntax highlighting and distraction-free UI. Perfect for long coding sessions.",
-  "version": "2.0.0",
+  "description": "A premium minimal dark theme for VS Code with clean UI, balanced contrast, and distraction-free coding experience. Designed for long coding sessions.",
+  "version": "2.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
   "publisher": "Prashantkhuva",
   "keywords": [
     "vscode theme",
-    "dark theme",
-    "minimal theme",
-    "clean theme",
-    "black theme",
-    "modern ui",
-    "developer theme",
+    "dark vscode theme",
+    "minimal vscode theme",
+    "clean coding theme",
+    "black theme vscode",
+    "developer dark theme",
+    "aesthetic vscode theme",
+    "modern vscode theme",
     "coding theme",
-    "aesthetic theme",
-    "pro theme",
-    "dark vscode theme"
+    "pro vscode theme"
   ],
   "categories": [
     "Themes"
@@ -41,5 +40,9 @@
     "type": "git",
     "url": "https://github.com/Prashantkhuva/custom-color-theme"
   },
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0c1116",
+    "theme": "dark"
+  }
 }
